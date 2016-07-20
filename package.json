@@ -1,0 +1,20 @@
+{
+  "name": "lib-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffi": "^2.0.0",
+    "ref-array": "^1.1.2",
+    "ref-union": "^1.0.1"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {},
+  "description": ""
+}
